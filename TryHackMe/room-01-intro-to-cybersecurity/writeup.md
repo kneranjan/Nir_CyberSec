@@ -21,4 +21,4 @@ This scans for hidden pages/directories on a website.
 Output with '+' means the page is accessible.
 
 ## Key Takeaway
-A common mistake of websites is to have left hiddent pages accessible.
+A common mistake of websites is to have left hidden pages accessible.
