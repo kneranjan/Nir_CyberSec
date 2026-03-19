@@ -1,24 +1,25 @@
-# Room 01 — Intro to Cybersecurity
+# Room 03 — Search Skills
 
-**Date:** 17 March 2026  
+**Date:** 19 March 2026  
 **Platform:** TryHackMe  
 **Path:** Cyber Security 101  
 **Difficulty:** Easy  
 
 ## What This Room Was About
-In This Room , I got introduced to offensive Security.(Thinking like an attacker to find weaknesses before real
-hackers do.)
+Understanding how to efficiently search and use the internet.
 
 ## What I Learned
-- One Common mistake website makes is leaving hidden pages accessible.
-- We can access these hidden pages simply by adding the URl of the page 
+- In This Room , I  learned about commons sources of information for CyberSec proffesionals.
+- How with new emerging technologies,you need to be updated  about when,how to safely use them.
 
 ## Commands Used
 ```bash
-dirb http://TARGET-IP
+man (manual)
+ss (secure socket statistics)
+netsat (network statistics)
 ```
-This scans for hidden pages/directories on a website.
-Output with '+' means the page is accessible.
 
 ## Key Takeaway
-A common mistake of websites is to have left hidden pages accessible.
+- Existence ofn specialized Search Engines ("Shodan","Censys","VirusTotal","HIBP").
+- How important technical documentation of any product is.
+- Be updated with the new emerging technologies.
