@@ -1,25 +1,24 @@
-# Room 03 — Search Skills
+# Room 04 — Linux Fundamentals
 
-**Date:** 19 March 2026  
+**Date:** 20 March 2026  
 **Platform:** TryHackMe  
 **Path:** Cyber Security 101  
 **Difficulty:** Easy  
 
 ## What This Room Was About
-Understanding how to efficiently search and use the internet.
+Understand The importance of Linux,and how to operate it.
 
 ## What I Learned
-- In This Room , I  learned about commons sources of information for CyberSec proffesionals.
-- How with new emerging technologies,you need to be updated  about when,how to safely use them.
+- In This Room , I  learned about why unix based systems are used.
+- How to operate linux.
+- Use of Shell Operators (&,&&,>,>>)
 
 ## Commands Used
 ```bash
-man (manual)
-ss (secure socket statistics)
-netsat (network statistics)
+pwd (manual)
+find
+grep
 ```
 
 ## Key Takeaway
-- Existence ofn specialized Search Engines (Shodan,Censys,VirusTotal,HIBP)
-- How important technical documentation of any product is.
--
+- Linux is in use today because of its high flexibility in a lot of cases.
