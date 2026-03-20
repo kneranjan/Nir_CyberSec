@@ -15,7 +15,7 @@ Understand The importance of Linux,and how to operate it.
 
 ## Commands Used
 ```bash
-pwd (manual)
+pwd 
 find
 grep
 ```
