@@ -6,16 +6,23 @@
 **Difficulty:** Easy  
 
 ## What This Room Was About
-Understand History and basics of Windows O.S
+Understand various tools provided by Windows
 
 ## What I Learned
-- Startup Applications
-- Use of registry
+- Startup Applications ,tools
+- System Configuration
+- Use of registry , cmd
 
 
 ## Commands Used
-```
-
+```bash
+command to open resource monitor : resmon.exe
+command to check computer name: hostname
+command to check logged in user : whoami
+command to show the network address settting : ipconfig
+command to open manual of command : <command> /?
+clear the cmd : cls
+command to display protocol statistics and current TCP/IP network connections : netstat 
 ```
 
 ## Key Takeaway
