@@ -1,4 +1,4 @@
-# Room 07 — Windows Fundamentals 3
+# Room 08 — Windows Fundamentals 3
 
 **Date:** 23 March 2026  
 **Platform:** TryHackMe  
