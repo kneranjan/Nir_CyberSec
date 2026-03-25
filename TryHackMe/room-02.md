@@ -15,7 +15,6 @@ and responding before damage occurs)
 
 ## Commands Used
 ```
--
 ```
 ## Key Takeaway
 How Defensive Security differs from Offensive Security.
